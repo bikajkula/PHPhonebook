@@ -1,0 +1,6 @@
+111|Aleksa|Aleksic|Mislopoljska 35|Raska|21321321
+112|Mihajlo|Ilic|Ropska 23|Raska|392
+113|Svetislav|Svetac|Josanicka 32|Josanica|231930210
+113|Moma|Popov|Josanicka 323|Josanica|2319302101
+114|Milos|Mitic|Doza Djerdja 55|Novi Sad|125772102
+115|Katarina|Mala|Bulevar Kralja Aleksandra 1|Beograd|210431
