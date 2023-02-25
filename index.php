@@ -49,10 +49,10 @@
 					}
 					case 5:{
 						if($i==($n-1)){
-							$dodTxt=' "telefon": '.$podatak.' }]';
+							$dodTxt=' "telefon": "'.$podatak.'" }]';
 						}
 						else{
-							$dodTxt=' "telefon": '.$podatak.' },';
+							$dodTxt=' "telefon": "'.$podatak.'" },';
 						}
 						
 						fwrite($json, $dodTxt);
